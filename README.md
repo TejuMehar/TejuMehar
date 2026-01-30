@@ -1,5 +1,9 @@
 # 💫 About Me:
-Currently I'm Workning On MERN Stack , core java, SQL , Docker , and CI/CD  <br>i'm Looking Job as a Full Stack Developer   i'm Going to gradudated this yer only 
+I’m Tejas Mehar, a student and passionate  MERN Stack Developer who loves turning ideas into real-world web applications.
+My journey started with fear and confusion, but curiosity and consistency pushed me forward.
+Every search, bug, and late-night learning session helped me grow stronger as a developer.
+I believe in learning by building, breaking, and improving projects.
+Currently focused on sharpening my skills and preparing for future opportunities in tech. 🚀
 
 
 ## 🌐 Socials:
